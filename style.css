@@ -1,0 +1,128 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.containor{
+    display: flex;
+    max-width: 1680px;
+    justify-content: space-between;
+    margin-bottom: 96px;
+    padding: 24px 140px;
+}
+.hero__display{
+    display: flex;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+}
+.hero__titl{
+    font-size: 32px;
+    text-decoration: none;
+    color: #5BB5A2;
+    font-family: "DM Sans", sans-serif;
+}
+.hero__title{
+    padding: 8px 8px 12px;
+    text-decoration: none;
+    color: black;
+}
+.hero__text{
+    display: flex;
+    font-family: "DM Sans", sans-serif;
+}
+.hero__tit{
+    text-decoration: none;
+    padding: 10.5px 32px;
+    color: #5BB5A2;
+    font-size: 18px;
+}
+.hero__titlee{
+    text-decoration: none;
+    padding: 12px 16px;
+    background-color: #5BB5A2;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+}
+.hero__titleee{
+    text-decoration: none;
+    background-color: #F8F8F8;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+.hero__articl{
+    text-align: center;
+}
+.hero__block{
+    font-size: 96px;
+    font-family: "DM Sans", sans-serif;
+}
+.hero__max{
+    max-width: 1680px;
+    margin-bottom: 96px;
+}
+.hero__a{
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    background-color: #F8F8F8;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+.hero__b{
+    text-decoration: none;
+    font-family: "DM Sans", sans-serif;
+    color: #1A191E;
+    font-size: 18px;
+}
+.hero__sans{
+    padding: 0 229px;
+    display: flex;
+    align-items: center;
+}
+.hero__c{
+    padding: 0 16px;
+}
+.hero__img{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 20px 229px;
+}
+.hero__dm{
+    margin-bottom: 64px;
+}
+.kep{
+    width: 369px;
+    border-radius: 16px;
+    margin-bottom: 24px;
+}
+.kap{
+    border-radius: 16px;
+}
+.with{
+    width: 378;
+    margin-bottom: 24px;
+}
+.wer{
+    margin-bottom: 24px;
+}
+.kap{
+    margin-bottom: 24px;
+}
+.h{
+    text-decoration: none;
+    background-color: #F8F8F8;
+    padding: 4px 10px;
+    font-size: 13px;
+}
+.e{
+    text-decoration: none;
+    background-color: #F8F8F8;
+    padding: 4px 10px;
+    font-size: 13px;
+}
+.bottom{
+    margin-bottom: 64px;
+}
